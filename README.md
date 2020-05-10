@@ -1,2 +1,0 @@
-# KepperProject
-Created with CodeSandbox
